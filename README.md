@@ -1,0 +1,1 @@
+## Credit to the responders to [this](https://stackoverflow.com/questions/47999145/literate-way-to-index-a-list-where-each-element-has-an-interpretation/48001538?noredirect=1#comment82993726_48001538) question.

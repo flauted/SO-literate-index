@@ -1,0 +1,7 @@
+dotmap\_method module
+=====================
+
+.. automodule:: dotmap_method
+    :members:
+    :undoc-members:
+    :show-inheritance:
